@@ -1,0 +1,8 @@
+<ItemPools>
+	<Pool Name="secret">
+		<Item Name="16 Euro" Weight="0.5" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="angel">
+		<Item Name="π" Weight="0.6" DecreaseBy="1" RemoveOn="0.1"/>
+	</Pool>
+</ItemPools>

@@ -1,0 +1,19 @@
+<pocketitems>
+	<card type="special" description="Spawn some shitto!" name="Sapient Card" hud="Sapient Card" mimiccharge="3" pickup="1201"/>
+	<card type="special" description="Spawn some shitto!" name="Fly Card" hud="Fly Card" mimiccharge="3" pickup="1201"/>
+	<card type="special" description="Spawn some shitto!" name="Spider Card" hud="Spider Card" mimiccharge="3" pickup="1201"/>
+	<card type="special" description="Spawn some shitto!" name="Poop Card" hud="Poop Card" mimiccharge="3" pickup="1201"/>
+	<card type="special" description="Spawn some shitto!" name="Organ Card" hud="Organ Card" mimiccharge="3" pickup="1201"/>
+	<card type="special" description="Spawn some shitto!" name="Maggot Card" hud="Maggot Card" mimiccharge="3" pickup="1201"/>
+	<card type="special" description="Spawn some shitto!" name="Worm Card" hud="Worm Card" mimiccharge="3" pickup="1201"/>
+	<card type="special" description="Spawn some shitto!" name="Ghost Card" hud="Ghost Card" mimiccharge="3" pickup="1201"/>
+	<card type="special" description="Spawn some shitto!" name="Skeleton Card" hud="Skeleton Card" mimiccharge="3" pickup="1201"/>
+	<card type="special" description="Spawn some shitto!" name="Vis Card" hud="Vis Card" mimiccharge="3" pickup="1201"/>
+	<card type="special" description="Spawn some shitto!" name="Knight Card" hud="Knight Card" mimiccharge="3" pickup="1201"/>
+	<card type="special" description="Spawn some shitto!" name="Portal Card" hud="Portal Card" mimiccharge="4" pickup="1201"/>
+	<card type="special" description="Spawn some shitto!" name="Shady Card" hud="Shady Card" mimiccharge="4" pickup="1201"/>
+	<card type="special" description="Spawn some shitto!" name="Bishop Card" hud="Bishop Card" mimiccharge="4" pickup="1201"/>
+	<card type="special" description="Spawn some shitto!" name="Bombgagger Card" hud="Bombgagger Card" mimiccharge="4" pickup="1201"/>
+	<card type="special" description="...What's this?" name="Henry Card" hud="Henry Card" mimiccharge="4" pickup="1201"/>
+	<card type="object" description="hukin'" name="Fish Hook" hud="Fish Hook" mimiccharge="0" pickup="1200"/>
+</pocketitems>

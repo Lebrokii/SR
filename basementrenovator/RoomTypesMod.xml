@@ -1,0 +1,44 @@
+<data>
+    <room Name="Secret Room">
+        <Gfx>
+            <Entity ID="3000" Image="../resources/gfx/grid/grid_secret_pit_large.png" />
+			<Entity ID="1000" Image="../resources/gfx/grid/rocks_secret.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Secret.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Caves.png" />
+        </Gfx>
+    </room>
+    <room Name="Shop">
+        <Gfx>
+            <Entity ID="1000" Image="../resources/gfx/grid/rocks_shop.png"/>
+			<Entity ID="3000" Image="../resources/gfx/grid/grid_chest_pit_alt.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Shop.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Shop.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Shop.png" />
+        </Gfx>
+    </room>
+    <room Name="Challenge Room">
+        <Gfx StageGfx="" RoomGfx="Challenge Backdrop" />
+    </room>
+    <room Name="Error Room">
+		<Gfx>
+			<Entity ID="1000" Image="../resources/gfx/grid/rocks_error-1.png.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Error.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Error.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Error.png" />
+		</Gfx>
+    </room>
+    <room Name="Dice Room">
+		<Gfx>
+			<Entity ID="1000" Image="../resources/gfx/grid/rocks_dice.png" />
+		</Gfx>
+    </room>
+    <room Name="Primitive Caves Backdrop">
+        <Gfx StageGfx="Caves" BGPrefix="backdrops/primitive">
+            <Entity ID="3000" Image="../resources/gfx/grid/grid_primitive_pit.png" />
+            <Entity ID="1000" Image="../resources/gfx/grid/rocks_primitive.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Old.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Old.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Old.png" />
+        </Gfx>
+    </room>
+</data>

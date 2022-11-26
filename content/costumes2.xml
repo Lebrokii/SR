@@ -1,0 +1,5 @@
+<costumes anm2root="gfx/">
+	<costume id="907" anm2path="characters/907_Pi.anm2" type="passive" />
+	<costume id="908" anm2path="characters/908_MILK_WITH_HONEY.anm2" type="passive" />
+	<costume id="909" priority="98" anm2path="characters/909_pixel_glasses.anm2" type="passive" />
+</costumes>

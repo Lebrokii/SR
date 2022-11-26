@@ -1,0 +1,5 @@
+<music root="music/">
+	<track name="AMA DA ONE" path="Pixel_Glasses.ogg" loop="true" />
+	<track name="AMA DA ONE 2" path="Pixel_Glasses_Ultimate.ogg" loop="true" />
+	<track name="AMA DA ONE 3" path="Pixel_Glasses_Apashe.ogg" loop="true" />
+</music>

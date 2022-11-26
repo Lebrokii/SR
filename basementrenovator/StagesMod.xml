@@ -1,0 +1,255 @@
+<data>
+    <stage Name="Basement">
+        <Gfx>
+            <Entity ID="3000" Image="../resources/gfx/grid/pit_basement.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Depths.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Base.png" />
+        </Gfx>
+    </stage>
+    <stage Name="Cellar">
+        <Gfx>
+            <Entity ID="3000" Image="../resources/gfx/grid/pit_cellar.png" />
+            <Entity ID="1000" Image="../resources/gfx/grid/rocks_cellar.png"/>
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Cellar.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Shop.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Cellar.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Cellar.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Cellar.png" />
+        </Gfx>
+    </stage>
+    <stage Name="Burning Basement">
+        <Gfx>
+            <Entity ID="3000" Image="../resources/gfx/grid/pit_burningbasement.png" />
+            <Entity ID="1000" Image="../resources/gfx/grid/rocks_burningbasement.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot BB.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock BB.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block BB.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block BB.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock BB.png" />
+        </Gfx>
+    </stage>
+    <stage Name="Caves">
+        <Gfx>
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Caves.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Caves.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Caves.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Caves.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Caves.png" />
+        </Gfx>
+    </stage>
+    <stage Name="Catacombs">
+        <Gfx>
+            <Entity ID="3000" Image="../resources/gfx/grid/grid_pit_catacombs.png" />
+            <Entity ID="1000" Image="../resources/gfx/grid/rocks_catacombs.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Cata.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Cata.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Cata.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Cata.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Cata.png" />
+        </Gfx>
+    </stage>
+    <stage Name="Flooded Caves">
+        <Gfx>
+            <Entity ID="3000" Image="../resources/gfx/grid/grid_floodedcaves_pit.png" />
+            <Entity ID="1000" Image="../resources/gfx/grid/rocks_drownedcaves.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Flood.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Flood.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Flood.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Flood.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Flood.png" />
+        </Gfx>
+    </stage>
+    <stage Name="Depths">
+        <Gfx>
+            <Entity ID="3000" Image="../resources/gfx/grid/grid_depths_pit_large.png" />
+            <Entity ID="1000" Image="../resources/gfx/grid/rocks_depths_custom.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Depths.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Depths.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Depths.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Depths.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Depths.png" />
+        </Gfx>
+    </stage>
+    <stage Name="Necropolis">
+        <Gfx>
+            <Entity ID="3000" Image="../resources/gfx/grid/grid_necropolis_pit_large.png" />
+            <Entity ID="1000" Image="../resources/gfx/grid/rocks_necropolis.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Necro.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Necro.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Necro.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Necro.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Necro.png" />
+        </Gfx>
+    </stage>
+    <stage Name="Dank Depths">
+        <Gfx>
+            <Entity ID="3000" Image="../resources/gfx/grid/grid_dankdepths_pit_large.png" />
+            <Entity ID="1000" Image="../resources/gfx/grid/rocks_dankdepths.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Dank.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Dank.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Dank.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Dank.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Dank.png" />
+        </Gfx>
+    </stage>
+	<stage Name="Womb">
+        <Gfx>
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Womb.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Womb.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Womb.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Womb.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Womb.png" />
+        </Gfx>
+    </stage>
+    <stage Name="Utero">
+        <Gfx>
+            <Entity ID="3000" Image="../resources/gfx/grid/grid_utero_pit_large.png" />
+            <Entity ID="1000" Image="../resources/gfx/grid/rocks_utero.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Utero.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Utero.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Utero.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Utero.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Utero.png" />
+        </Gfx>
+    </stage>
+    <stage Name="Scarred Womb">
+        <Gfx>
+            <Entity ID="3000" Image="../resources/gfx/grid/grid_scarredwomb_pit.png" />
+            <Entity ID="1000" Image="../resources/gfx/grid/rocks_scarredwomb.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Scar.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Scar.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Scar.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Scar.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Scar.png" />
+        </Gfx>
+    </stage>
+    <stage Name="Blue Womb">
+        <Gfx>
+            <Entity ID="1000" Image="../resources/gfx/grid/rocks_bluewomb.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Blue.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Blue.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Blue.png" />
+        </Gfx>
+    </stage>
+    <stage Name="Sheol">
+        <Gfx>
+            <Entity ID="3000" Image="../resources/gfx/grid/grid_sheol_pit.png" />
+			<Entity ID="1000" Image="../resources/gfx/grid/rocks_sheol.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Sheol.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Sheol.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Sheol.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Sheol.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Sheol.png" />
+        </Gfx>
+    </stage>
+    <stage Name="Cathedral">
+        <Gfx>
+            <Entity ID="1000" Image="../resources/gfx/grid/rocks_cathedral.png" />
+            <Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Cath.png" />
+            <Entity ID="3000" Image="../resources/gfx/grid/grid_cathedral_pit_large.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Cath.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Cath.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Cath.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Cath.png" />
+        </Gfx>
+    </stage>
+    <stage Name="Dark Room">
+        <Gfx>
+            <Entity ID="3000" Image="../resources/gfx/grid/grid_pit_darkroom.png" />
+            <Entity ID="1000" Image="../resources/gfx/grid/rocks_darkroom.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Dark.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Dark.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Dark.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Dark.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Dark.png" />
+        </Gfx>
+    </stage>
+    <stage Name="Chest">
+        <Gfx>
+            <Entity ID="3000" Image="../resources/gfx/grid/grid_chest_pit.png" />
+			<Entity ID="1000" Image="../resources/gfx/grid/rocks_chest.png"/>
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Chest.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Chest.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Chest.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Chest.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Chest.png" />
+        </Gfx>
+    </stage>
+	<stage Name="Downpour">
+        <Gfx>
+			<Entity ID="1000" Image="../resources/gfx/grid/rocks_downpour.png"/>
+			<Entity ID="3000" Image="../resources/gfx/grid/grid_pit_downpour.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Downpour.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Downpour.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Downpour.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Downpour.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Downpour.png" />
+        </Gfx>
+    </stage>
+	<stage Name="Dross">
+        <Gfx>
+            <Entity ID="3000" Image="../resources/gfx/grid/grid_pit_dross.png" />
+			<Entity ID="1000" Image="../resources/gfx/grid/rocks_dross.png"/>
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Dross.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Dross.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Dross.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Dross.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Dross.png" />
+        </Gfx>
+    </stage>
+		<stage Name="Mines">
+        <Gfx>
+			<Entity ID="1000" Image="../resources/gfx/grid/rocks_secretroom.png"/>
+			<Entity ID="3000" Image="../resources/gfx/grid/grid_pit_mines.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Mines.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Mines.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Mines.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Mines.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Mines.png" />
+        </Gfx>
+    </stage>
+	<stage Name="Ashpit">
+        <Gfx>
+			<Entity ID="1000" Image="../resources/gfx/grid/rocks_ashpit.png"/>
+			<Entity ID="3000" Image="../resources/gfx/grid/grid_pit_ashpit.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Ash.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Ash.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Ash.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Ash.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Ash.png" />
+        </Gfx>
+	</stage>
+	<stage Name="Mausoleum">
+        <Gfx>
+			<Entity ID="1000" Image="../resources/gfx/grid/rocks_mausoleum.png"/>
+			<Entity ID="3000" Image="../resources/gfx/grid/grid_pit_mausoleum.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Maus.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Maus.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Maus.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Maus.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Maus.png" />
+        </Gfx>
+	</stage>
+	<stage Name="Gehenna">
+        <Gfx>
+			<Entity ID="1000" Image="../resources/gfx/grid/rocks_gehenna.png"/>
+			<Entity ID="3000" Image="../resources/gfx/grid/grid_pit_gehenna.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Geh.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Geh.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Geh.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Geh.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Geh.png" />
+        </Gfx>
+	</stage>
+	<stage Name="Corpse">
+        <Gfx>
+			<Entity ID="1000" Image="../resources/gfx/grid/rocks_corpse.png"/>
+			<Entity ID="3000" Image="../resources/gfx/grid/grid_pit_corpse.png" />
+			<Entity ID="1001" Image="icons/FF/1001.0.0 - Bomb Rock Corpse.png" />
+			<Entity ID="1900" Image="icons/FF/1900.0.0 - Block Corpse.png" />
+			<Entity ID="1901" Image="icons/FF/1901.0.0 - Tall Block Corpse.png" />
+			<Entity ID="1010" Image="icons/FF/1010.0.0 - Spike Rock Corpse.png" />
+			<Entity ID="1002" Image="icons/FF/1002.0.0 - Pot Corpse.png" />
+        </Gfx>
+	</stage>
+</data>

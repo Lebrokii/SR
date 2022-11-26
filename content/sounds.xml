@@ -1,0 +1,60 @@
+<sounds root="sfx/">
+	<sound id="523353" name="Screamer Scream">
+		<sample weight="1" path="screamer scream.wav"/>
+	</sound>
+	<sound id="523354" name="Bla Bla">
+		<sample weight="1" path="blabla.wav"/>
+	</sound>
+	<sound name="CameraFlash">
+		<sample weight="1" path="camerasound_cut.wav" />
+	</sound>
+
+	<!-- PIG -->
+	<sound name="pig_oink_1">
+		<sample weight="1" path="pig_oink_1.wav" />
+	</sound>
+
+	<sound name="pig_oink_2">
+		<sample weight="1" path="pig_oink_2.wav" />
+	</sound>
+
+	<sound name="pig_oink_3">
+		<sample weight="1" path="pig_oink_3.wav" />
+	</sound>
+
+	<sound name="pig_oink_4">
+		<sample weight="1" path="pig_oink_4.wav" />
+	</sound>
+
+	<sound name="pig_oink_5">
+		<sample weight="1" path="pig_oink_5.wav" />
+	</sound>
+
+	<sound name="pig_oink_6">
+		<sample weight="1" path="pig_oink_6.wav" />
+	</sound>
+
+	<sound name="pig_hi-hat_1">
+		<sample weight="1" path="pig_hi-hat_1.wav" />
+	</sound>
+
+	<sound name="pig_hi-hat_2">
+		<sample weight="1" path="pig_hi-hat_2.wav" />
+	</sound>
+
+	<sound name="pig_death_1">
+		<sample weight="1" path="pig_death_1.wav" />
+	</sound>
+
+	<sound name="pig_death_2">
+		<sample weight="1" path="pig_death_2.wav" />
+	</sound>
+
+	<sound name="pig_death_3">
+		<sample weight="1" path="pig_death_3.wav" />
+	</sound>
+
+	<sound name="Glasses_Bullet">
+		<sample weight="1" path="bullet.wav" />
+	</sound>
+</sounds>

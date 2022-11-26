@@ -1,0 +1,65 @@
+<entities anm2root="gfx/" version="5" deathanm2="gfx/death_bosses.anm2">
+
+	<!-- Mouse -->
+	<entity anm2path="enemies/mouse/mouse.anm2" id="114" variant="1000" subtype="0" baseHP="150" stageHP="0" reroll="false" name="Mouse" boss="1" champion="0" collisionDamage="20" collisionMass="100" collisionRadius="30" friction="1" numGridCollisionPoints="12" shadowSize="27">
+		<gibs amount="20" blood="1" bone="1" eye="1" gut="1" large="1" />
+	</entity>
+
+	<!-- Troll -->
+	<entity anm2path="enemies/troll/troll.anm2" id="114" variant="1001" subtype="0" baseHP="1337" stageHP="0" reroll="false" name="Troll" boss="1" champion="0" collisionDamage="24" collisionMass="100" collisionRadius="35" friction="1" numGridCollisionPoints="12" shadowSize="35" portrait="21">
+		<gibs amount="20" blood="1" bone="1" eye="1" gut="1" large="1" />
+	</entity>
+
+	<!-- Smilik -->
+	<entity anm2path="enemies/smilik/smilik.anm2" id="115" variant="1000" subtype="0" baseHP="30" stageHP="0" reroll="false" name="Smilik" boss="0" champion="0" collisionDamage="0" collisionMass="10" collisionRadius="25" friction="1" numGridCollisionPoints="24" shadowSize="35">
+		<gibs amount="20" blood="1" bone="1" eye="1" gut="1" large="1" />
+	</entity>
+
+	<!-- Piggy -->
+	<entity anm2path="enemies/piggy/piggy.anm2" id="116" variant="1000" subtype="0" baseHP="10" stageHP="0" reroll="false" name="Piggy" boss="0" champion="0" collisionDamage="0" collisionMass="10" collisionRadius="30" friction="1" numGridCollisionPoints="24" shadowSize="30">
+		<gibs amount="20" blood="1" bone="1" eye="1" gut="1" large="1" />
+	</entity>
+
+	<!-- Lilith Beggar -->
+    <entity anm2path="lilith beggar.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="6" name="Harlot Beggar" numGridCollisionPoints="24" shadowSize="15" stageHP="0" variant="74">
+        <gibs amount="6" blood="1" bone="1" eye="1" gut="1" large="0" />
+    </entity>
+    <entity anm2path="charm.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="0" friction="1" id="1000" name="Love Effect" numGridCollisionPoints="1" shadowSize="0" stageHP="0" variant="7411571">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+	<!-- Screamer -->
+	<entity anm2path="enemies/screamer/screamer.anm2" baseHP="100" boss="0" champion="0" collisionDamage="2" collisionMass="950" collisionRadius="13" friction="1" id="985" name="Screamer" numGridCollisionPoints="12" shadowSize="18" stageHP="0" variant="433">
+        <gibs amount="12" blood="1" bone="1" eye="0" gut="0" large="1" colorblood="1" />
+    </entity>
+	<entity anm2path="enemies/screamer/e_screamer.anm2" subtype="85" baseHP="180" boss="0" champion="0" collisionDamage="2" collisionMass="950" collisionRadius="17" friction="1" id="985" name="Eternal Screamer" numGridCollisionPoints="12" shadowSize="18" stageHP="0" variant="433">
+        <gibs amount="12" blood="1" bone="1" eye="0" gut="0" large="1" colorblood="1" />
+    </entity>
+	<entity anm2path="enemies/screamer/screamer.anm2" baseHP="9999999" boss="0" champion="0" collisionDamage="2" collisionMass="10000" collisionRadius="1" friction="1" id="985" name="Screamer Scream Slower" numGridCollisionPoints="12" shadowSize="18" stageHP="0" variant="434">
+        <gibs amount="12" blood="1" bone="1" eye="0" gut="0" large="1" colorblood="1" />
+    </entity>
+
+	<!-- BEASTCARDS.exe -->
+    <entity anm2path="beastcards.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Beast Card" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="300" subtype="1201">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+	</entity>
+	
+	<!-- FISHHOOK -->
+	<entity anm2path="fishhook.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Fish Hook" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="300" subtype="1200">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+	</entity>
+
+	<!-- FADEOUT -->
+	<entity anm2path="fadeout.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="1" friction="1" id="1000" name="Fade Out" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="3003" subtype="0">
+        <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />
+    </entity>
+
+	<!-- HOOKTEAR -->
+	<entity anm2path="hooktear.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="8" collisionRadius="8" friction="1" id="2" name="Hook Tear" numGridCollisionPoints="8" shadowSize="7" stageHP="0" variant="1203" />
+
+
+
+    	<entity anm2path="grid/1000.spawner_effect.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="0" collisionRadius="0" friction="1" id="1000" name="Unique Giant Prop Spawner Effect" numGridCollisionPoints="0" shadowSize="0" stageHP="0" variant="34895">
+    	</entity>
+
+</entities>

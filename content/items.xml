@@ -1,0 +1,8 @@
+<items gfxroot="gfx/items/" version="1">
+<passive name="bruskett" description="oh boi u found it :D" gfx="bruskett.png" soulhearts="2" maxhearts="4" hearts="8" cache="all" />
+<active cache = "damage" name="16 Euro" maxcharges="16" description="I remember this... from 2011..." gfx="vipmember.png" coins="61"/>
+<passive name="π" id="907" description="POWER OF SCIENCE!!!" gfx="Pi.png" cache="all" />
+<passive name="Milk with honey" id="908" description="Soft medicine and love of nature" gfx="milk_with_hohey.png" maxhearts="6" hearts="12" cache="all" />
+<active name="Wildlife Camera" id="0" description="CORRUPT ALL!!!" quality="2" maxcharges="6" gfx="collectible_wildlifecamera.png"/>
+<passive name="Ama da one" id="909" description="ONE TAPS" gfx="pixel_glasses.png" cache="all" />
+</items>

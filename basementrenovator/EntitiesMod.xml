@@ -1,0 +1,44 @@
+<data>
+	
+	<!-- Lilith Baggar -->
+	<entity ID="6" Kind="SR" Group="Beggars" Image="icons/lilith_beggar.png" Name="Harlot Beggar" Variant="74" />
+
+	<!-- TROLL -->
+	<entity ID="114" Kind="SR" Group="Jokes" Image="icons/troll.png" Name="TROLL" Variant="1001" />
+
+	<!-- Screamer -->
+	<entity BaseHP="100" Boss="0" Champion="0" Group="Jokes" ID="985" Image="icons/Screamer.png" Kind="SR" Name="Screamer" Subtype="0" Variant="433"/>
+
+	<!-- Hook -->
+	<entity ID="5" Kind="SR" Group="Joke Items" Image="icons/fishhookpickup.png" Name="Hook" Variant="300" Subtype="114" />
+	
+	<!-- Smilik -->
+	<entity ID="115" Kind="SR" Group="Jokes" Image="icons/smilik.png" Name="Smilik" Variant="1000" />
+
+	<!-- Piggy -->
+	<entity ID="116" Kind="SR" Group="Jokes" Image="icons/piggyB.png" Name="Piggy" Variant="1000" />
+
+	<!-- ITEMS -->
+
+	<!-- bruskett -->
+	<entity ID="5" Kind="SR" Group="Items" Image="icons/bruskett.png" Name="bruskett" Variant="100" Subtype="733" />
+
+	<!-- 16 Euro -->
+	<entity ID="5" Kind="SR" Group="Items" Image="icons/vipmember.png" Name="16 Euro" Variant="100" Subtype="734" />
+
+	<!-- PI -->
+	<entity ID="5" Kind="SR" Group="Items" Image="icons/Pi.png" Name="Pi" Variant="100" Subtype="735" />
+
+	<!-- Milk with Honey -->
+	<entity ID="5" Kind="SR" Group="Items" Image="icons/milk_with_hohey.png" Name="Milk With Honey" Variant="100" Subtype="736" />
+
+	<!-- WildFire Camera -->
+	<entity ID="5" Kind="SR" Group="Items" Image="icons/collectible_wildlifecamera.png" Name="WildFire Camera" Variant="100" Subtype="737" />
+
+	<!-- Pixel Glasses -->
+	<entity ID="5" Kind="SR" Group="Items" Image="icons/pixel_glasses.png" Name="Pixel Glasses" Variant="100" Subtype="738" />
+
+	<!-- Giant Props -->
+    	<entity Group="Props" Kind="SR" ID="999" Image="icons/Prop Spawn Helper.png" Name="Unique Giant Prop Spawner Effect" Subtype="0" Variant="34895" />
+
+</data>
