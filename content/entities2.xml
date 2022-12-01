@@ -39,6 +39,11 @@
         <gibs amount="12" blood="1" bone="1" eye="0" gut="0" large="1" colorblood="1" />
     </entity>
 
+	<!-- BOB DESTROYER -->
+	<entity anm2path="enemies/bob_the_destroyer/bob_the_destroyer.anm2" baseHP="80" boss="1" champion="0" collisionDamage="2" collisionMass="950" collisionRadius="13" friction="1" id="117" name="Bob The Destroyer" numGridCollisionPoints="12" shadowSize="18" stageHP="0" variant="333">
+        <gibs amount="12" blood="1" bone="1" eye="0" gut="0" large="1" colorblood="1" />
+    </entity>
+
 	<!-- BEASTCARDS.exe -->
     <entity anm2path="beastcards.anm2" baseHP="0" boss="0" champion="0" collisionDamage="0" collisionMass="3" collisionRadius="12" friction="1" id="5" name="Beast Card" numGridCollisionPoints="24" shadowSize="16" stageHP="0" variant="300" subtype="1201">
         <gibs amount="0" blood="0" bone="0" eye="0" gut="0" large="0" />

@@ -18,6 +18,9 @@
 	<!-- Piggy -->
 	<entity ID="116" Kind="SR" Group="Jokes" Image="icons/piggyB.png" Name="Piggy" Variant="1000" />
 
+	<!-- BOB -->
+	<entity ID="117" Kind="SR" Group="Jokes" Image="icons/bob_the_destroyer.png" Name="Bob The Destroyer" Variant="333" />
+
 	<!-- ITEMS -->
 
 	<!-- bruskett -->
@@ -40,5 +43,8 @@
 
 	<!-- Giant Props -->
     	<entity Group="Props" Kind="SR" ID="999" Image="icons/Prop Spawn Helper.png" Name="Unique Giant Prop Spawner Effect" Subtype="0" Variant="34895" />
+
+	<!-- DUMMY -->
+    	<entity Group="Jokes" Kind="SR" ID="964" Image="icons/Dummy.png" Name="THE DUMMY" Subtype="0" Variant="0" />
 
 </data>

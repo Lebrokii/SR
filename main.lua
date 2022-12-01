@@ -43,6 +43,7 @@ require("srscripts.items.pixel_glasses")
 require("srscripts.enemies.screamer")
 require("srscripts.enemies.smilik")
 require("srscripts.enemies.piggy")
+require("srscripts.enemies.bob_the_destroyer")
 
 -- Other
 require("srscripts.beggar_lilly")
